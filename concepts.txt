@@ -1,4 +1,6 @@
-                 Basic Concepts
+
+
+Basic Concepts
 Syntax and Structure
 
 Data Types (int, float, double, char, bool, etc.)
@@ -35,7 +37,7 @@ Dynamic Memory Allocation (new, delete)
 
 References
 
-                Intermediate Concepts
+Intermediate Concepts
 Object-Oriented Programming (OOP) Basics
 
 Classes and Objects
@@ -76,7 +78,7 @@ Algorithms (sort, find, etc.)
 
 Lambda Expressions (C++11 and later)
 
-              Advanced Concepts
+Advanced Concepts
 Move Semantics (Rvalue References, std::move)
 
 Smart Pointers (unique_ptr, shared_ptr, weak_ptr)
@@ -107,7 +109,7 @@ Modules (C++20)
 
 Coroutines (C++20)
 
-                   Advanced OOP (Multiple Inheritance, Virtual Inheritance)
+Advanced OOP (Multiple Inheritance, Virtual Inheritance)
 
 Custom Exceptions and Error Handling
 
